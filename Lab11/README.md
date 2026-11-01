@@ -3,6 +3,7 @@
 A simple RNN with attention that reads a question and picks the right answer group from a small QnA dataset of 168 questions and 12 answer groups
 
 ## Steps
+
 1 Load and clean the questions
 2 Turn words into numbers and add padding
 3 Build an RNN with an attention layer
